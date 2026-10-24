@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Duc! 👋</h1>
+<h1 align="center">👋 Hi there, I'm Duc! </h1>
 
 <h3 align="center">Software Engineering Student at PTIT</h3>
 
@@ -9,11 +9,11 @@
 
 <br>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <br>
 
-<h3>💻 Programming Languages</h3>
+<h3>Programming Languages</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" title="Python"/>
   &nbsp;&nbsp;
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3>🧠 AI / Machine Learning / Data Science</h3>
+<h3>AI / Machine Learning / Data Science</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="45" height="45" title="NumPy"/>
   &nbsp;&nbsp;
@@ -45,7 +45,7 @@
 
 <br>
 
-<h3>🌐 Frameworks & Libraries</h3>
+<h3>Frameworks & Libraries</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45" title="Spring Boot"/>
   &nbsp;&nbsp;
@@ -54,7 +54,7 @@
 
 <br>
 
-<h3>🗄️ Databases</h3>
+<h3>Databases</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
   &nbsp;&nbsp;
@@ -65,7 +65,7 @@
 
 <br>
 
-<h3>⚙️ Tools & Operating Systems</h3>
+<h3>Tools & Operating Systems</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" title="Git"/>
   &nbsp;&nbsp;
