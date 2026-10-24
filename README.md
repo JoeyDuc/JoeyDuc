@@ -1,12 +1,15 @@
 
-<h1 align="center"> 👋 Hi there, I'm Duc!</h1>
 
-<h3 align="center">
-  Software Engineering Student at PTIT
-</h3>
+<h1 align="center">Hi there, I'm Duc! 👋</h1>
+
+<h3 align="center">Software Engineering Student at PTIT</h3>
 
 <p align="center">
-  Passionate about Software Development, AI & Machine Learning
+  Aspiring AI Engineer | NLP & Large Language Models (LLMs)
+</p>
+
+<p align="center">
+  Passionate about Software Development, Machine Learning & Natural Language Processing
 </p>
 
 <br>
